@@ -1,0 +1,17 @@
+-a foreign key refrences the id of another entity in the database
+
+-can not have an array of data in a datasheet
+
+-on a datasheet a single cell can not have multiple things
+
+-instead of having multiple data entries in a datasheet cell, it is better to have another datasheet.
+
+-there is more query power in having multiple data entries in a sinlge cell but the trade off is that it becomes hard to understand if there are multiple data sheets
+
+-early engineers put a heavy enphasis on performance, however a performance bottleneck with SQL will not be reached unless there is already a lot of money being made.
+
+-although not really since SQL is that good
+
+-relational SQL databases are the bread and butter for noobs and it is industry standard
+
+
